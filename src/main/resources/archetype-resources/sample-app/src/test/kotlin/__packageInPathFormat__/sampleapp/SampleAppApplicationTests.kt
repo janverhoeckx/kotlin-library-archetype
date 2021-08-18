@@ -1,4 +1,4 @@
-package nl.verhoeckx.sampleapp
+package ${package}.sampleapp
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

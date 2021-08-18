@@ -1,4 +1,4 @@
-package nl.verhoeckx.sampleapp
+package ${package}.sampleapp
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

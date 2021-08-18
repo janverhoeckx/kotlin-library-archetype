@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'nl.verhoeckx.sample-app' is invalid and this project uses 'nl.verhoeckx.sampleapp' instead.
-
 # Getting Started
 
 ### Reference Documentation
